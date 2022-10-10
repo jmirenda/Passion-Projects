@@ -20,10 +20,13 @@ For this project I am working solo. I am self taught / self teaching all aspect 
 - I would love help from anyone who wants to offer it and even join me on my journey to build. 
 
 
-I will be doing my best to update this everyday. Along with keeping a running log and updates. 
+ ### I will be doing my best to update this everyday. Along with keeping a running log and updates. 
+
+ - 10/10/22 -> working on homepage outline on index file. Deciding on a design and what i plan to have the homepage look like. For now it is an on-goingly slow html design as i configure my ideas to layout. 
 
 - This is just a basic informational message to get some ideas written out. 
 - Please feel free to reach out to me with questions, comments, interest and anything else. 
 
 
 I will be sharing updates over time on [My Twitter Page](https://twitter.com/mirenda_eth) so you can follow along there as time comes to fruition. 
+
